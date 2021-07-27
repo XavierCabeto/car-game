@@ -12,4 +12,4 @@ python .\main.py
 
 ## Usage
 
-Durante a execução do jogo é possível usar os seguintes jogos: start, stop, quit e help.
+During game execution it is possible to use the following games: start, stop, quit and help.
